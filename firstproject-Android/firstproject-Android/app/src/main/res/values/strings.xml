@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="entry_text_hint">Text to be translated</string>
+    <string name="result_text_hint">Translated text</string>
+    <string name="speech_button_hint">Text to Speech</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_close">Close Application</string>
+    <string name="error_title_default">Error in firstproject</string>
+    <string name="error_title_invalid_credentials_speech">Invalid Watson Speech Credentials</string>
+    <string name="error_title_invalid_credentials_translator">Invalid Watson Translator Credentials</string>
+    <string name="error_message_invalid_credentials_translator">Please verify your credentials in \"values/watson_credentials\" and rebuild the application.\n\nSee the README for further assistance.</string>
+    <string name="error_message_invalid_credentials_speech">Please verify your credentials in \"values/watson_credentials\" and rebuild the application or continue with no Text To Speech.\n\nSee the README for further assistance.</string>
+    <string name="error_title_bluemix_connection">Failed to Connect to Bluemix</string>
+    <string name="error_message_bluemix_connection">Please verify your connection to the internet.\n\nSee the README for further assistance.</string>
+</resources>
